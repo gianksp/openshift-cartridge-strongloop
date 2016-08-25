@@ -1,16 +1,16 @@
-Name: strongloop
-Cartridge-Short-Name: SLS
-Display-Name: StrongLoop Suite 
+Name: strongloop-glofox
+Cartridge-Short-Name: SLSG
+Display-Name: StrongLoop Suite Glofox
 Description: "StrongLoop includes LoopBack, an open source mobile framework for creating RESTful, JSON, and other APIs. LoopBack ships with a mobile SDK and can be easily extended via community npm modules. Also included in StrongLoop is StrongOps, an operational console specifically for Node.js applications. StrongOps provides deep performance monitoring including CPU profiling, event loop statistics, and more."
-Version: "0.10.30"
-Versions: ['0.10.30']
-Source-Url: https://github.com/strongloop/openshift-cartridge-strongloop.git
+Version: "6.4.0"
+Versions: ['6.4.0']
+Source-Url: https://github.com/gianksp/openshift-cartridge-strongloop.git
 License: StrongLoop License
 License-Url:
 Vendor: strongloop.com
 Website: "http://strongloop.com/"
 Install-Build-Required: true
-Cartridge-Version: 0.10.30
+Cartridge-Version: 6.4.0
 Cartridge-Vendor: strongloop 
 Categories:
   - service
